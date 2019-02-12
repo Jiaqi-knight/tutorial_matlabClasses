@@ -34,3 +34,16 @@ knight2_health = knight2_health - knight1_attack
 knight1_health = knight1_health - knight2_attack
 
 % repeat on and on
+
+
+
+
+
+
+
+
+
+
+
+
+

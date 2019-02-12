@@ -19,6 +19,7 @@ classdef objectOrientedClass
         % properties are defined in the constructor function
         prop1; 
     end
+
     
     methods 
         %%%%%%%%%%%%
